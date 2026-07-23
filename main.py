@@ -1,4 +1,4 @@
-age = input("What's your name?\n")
+name = input("What's your name?\n")
 
 print(f"Hello {name}!")
 
